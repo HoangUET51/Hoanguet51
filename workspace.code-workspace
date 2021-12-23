@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Admin\\Documents\\JS"
+		},
+		{
+			"path": "c:\\Users\\Admin\\Documents\\json_server"
+		},
+		{
+			"path": "c:\\Users\\Admin\\Documents\\HTML"
+		},
+		{
+			"path": "c:\\Users\\Admin\\Documents\\project1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project1"
+	}
+}
